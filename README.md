@@ -6,31 +6,44 @@ The purpose and funtionality of this code is to detetermine the conversion betwe
 Example of inputs and outputs; 
 
 Fahrenheit to Celsius-
+
 python ./fahrenheit_to_celsius.py
+
 Fahrenheit and Celsius Convertor
 
 Conversion Menu
+
 A. Fahrenheit to Celsius
+
 B. Celsius to Fahrenheit
+
 Select a conversion (A/B): A
 
 Enter fahrenheit: 79
+
 26.0 degress celsius
 
 Would you like to perform another conversion? (y/n): n
 
 Thank you, See you next time!
 
+
 Celsius to Fahrenheit-
+
 python ./fahrenheit_to_celsius.py
+
 Fahrenheit and Celsius Convertor
 
 Conversion Menu
+
 A. Fahrenheit to Celsius
+
 B. Celsius to Fahrenheit
+
 Select a conversion (A/B): B
 
 Enter celsius: 32
+
 90.0 degress fahrenheit
 
 Would you like to perform another conversion? (y/n): n
